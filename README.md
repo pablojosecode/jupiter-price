@@ -1,4 +1,5 @@
 This is an app which uses the Jupiter SDK and their quoting/swapping api to deliver ready, tailormade crypto-based information to you, in the form of a web app. If you notice any mistakes, feel free to submit a pull request! Attached below is a demo. 
+https://imgur.com/a/qM2onVF
 
 
 ## Available Scripts
