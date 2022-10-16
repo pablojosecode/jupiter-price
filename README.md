@@ -6,7 +6,8 @@ https://imgur.com/a/qM2onVF
 
 ```git clone...
 cd jupiter-price
-npm install```
+npm install
+```
 Should take care of dependency concerns.
 
 In the project directory, you can run:
