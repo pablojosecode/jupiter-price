@@ -4,9 +4,9 @@ https://imgur.com/a/qM2onVF
 
 ## Available Scripts
 
-'''git clone...
+```git clone...
 cd jupiter-price
-npm install'''
+npm install```
 Should take care of dependency concerns.
 
 In the project directory, you can run:
